@@ -13,7 +13,7 @@ I love robots, computer networking, hacking news, AI, etc.
 * I love learn but the time are crunching me
 * I am afraid of death and living
 * I love programming only when it goes well
-* I feel lost when artificial intelligence makes news
+* I feel lost when artificial intelligence make news
 
 
 ## 🛠 Skills
