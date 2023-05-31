@@ -46,10 +46,18 @@ I love robots, computer networking, hacking news, AI, etc.
 
 
 # 🕸 Interesting websites (They are not mine)
-* [thehackernews](https://thehackernews.com/)
-* [roadmaps](https://roadmap.sh/)
-* [Learn in x minutes](https://learnxinyminutes.com/)
-* [dev hints](https://devhints.io/)
+[thehackernews](https://thehackernews.com/)
+
+
+[roadmaps](https://roadmap.sh/)
+
+
+[Learn in x minutes](https://learnxinyminutes.com/)
+
+
+[dev hints](https://devhints.io/)
+
+
 <!--
 **ism1100001/ism1100001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
