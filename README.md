@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" width="100"/>
+</div>
+
 ### Hi there 👋
 <h1 align="center">Hi </h1>
 <h4 align="center">A passionate frontend developer from India</h4>
