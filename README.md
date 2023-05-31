@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm test</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
+<h4 align="center">A passionate frontend developer from India</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
