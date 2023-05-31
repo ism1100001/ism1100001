@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/zgduo4kWRRDVK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK">via GIPHY</a></p>
-</div>
-
 ### Hi there 👋
 <h1 align="center">Hi </h1>
 <h4 align="center">A passionate frontend developer from India</h4>
