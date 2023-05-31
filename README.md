@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iGlFO51WE0Dmg/giphy.gif" width="250" height="220" />
 </div>
+
 # Hi there 👋, I'm a fake 🧙‍♂️, welcome to my profile
 I love robots, computer networking, hacking news, AI, etc.
+
 ## 🚀 About Me
 * Kubernetes user
 * Computer user (I am certified in it)
