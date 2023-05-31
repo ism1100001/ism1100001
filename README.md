@@ -14,13 +14,12 @@ I love robots, computer networking, hacking news, AI, etc.
 * I am afraid of death and living
 * I love programming only when it goes well
 * I feel lost when artificial intelligence make news
+* I love 🎃🍭 Halloween 🍬🧛
 
 ### Also
 👨‍🏭 I'm currently working on my ecommerce project
 
 🧠 I'm currently learning Pentesting
-
-👯‍♀️ I'm looking to collaborate on *La Cochinita Japanse Food Factory*
 
 💬 Ask me about everything
 
@@ -42,6 +41,12 @@ I love robots, computer networking, hacking news, AI, etc.
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+## 🕸 Interesting websites (They are not mine)
+ [thehackernews](https://thehackernews.com/)
+ [roadmaps](https://roadmap.sh/)
+ [Learn in x minutes](https://learnxinyminutes.com/)
+ [dev hints](https://devhints.io/)
 <!--
 **ism1100001/ism1100001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
