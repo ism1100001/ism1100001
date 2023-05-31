@@ -10,7 +10,7 @@ I love robots, computer networking, hacking news, AI, etc.
 ## 🚀 About Me
 * Kubernetes user
 * Computer user (I am certified in it)
-* I love learn but the time are crunching me
+* I love learn but time are crunching me
 * I am afraid of death and living
 * I love programming only when it goes well
 * I feel lost when artificial intelligence make news
