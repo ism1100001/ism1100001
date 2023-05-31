@@ -15,6 +15,16 @@ I love robots, computer networking, hacking news, AI, etc.
 * I love programming only when it goes well
 * I feel lost when artificial intelligence make news
 
+### Also
+👨‍🏭 I'm currently working on my ecommerce project
+
+🧠 I'm currently learning Pentesting
+
+👯‍♀️ I'm looking to collaborate on *La Cochinita Japanse Food Factory*
+
+💬 Ask me about everything
+
+⚡️ Fun fact *Over 90% of the world's currency is digital*
 
 ## 🛠 Skills
 <p align="left">
