@@ -4,7 +4,7 @@
 
 
 # Hi there 👋, I'm Ivan a fake 🧙‍♂️
-I love robots, computer networking, hacking news, AI, etc.
+I love robots, computer networking, hacker news, AI, etc.
 
 
 ## 🚀 About Me
