@@ -9,21 +9,13 @@ I love robots, computer networking, hacker news, AI, etc.
 
 ## 🚀 About Me
 * Kubernetes user
-* Computer user (I am certified in it)
-* I love learn but time are crunching me
-* I am afraid of death and living
 * I love programming only when it goes well
-* I feel lost when artificial intelligence make news
 * I love 🎃🍭 Halloween 🍬🧛
 
 ### Also
 👨‍🏭 I'm currently working on my ecommerce project
 
 🧠 I'm currently learning Pentesting
-
-💬 Ask me about everything
-
-⚡️ Fun fact *Over 90% of the world's currency is digital*
 
 ## 🛠 Skills
 <p align="left">
