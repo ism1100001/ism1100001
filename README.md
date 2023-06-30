@@ -3,7 +3,7 @@
 </div>
 
 
-# Hi there 👋, I'm Ivan a fake 🧙‍♂️
+# Hi there 👋, I'm Ivan 🧙‍♂️
 I love robots, computer networking, hacker news, AI, etc.
 
 
