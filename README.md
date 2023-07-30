@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bk0OZ.gif" width="250" height="220" />
+ <a href="https://tenor.com/view/explosion-art-aesthetic-gif-17362035">Explosion Art GIF</a>
 </div>
 
 
