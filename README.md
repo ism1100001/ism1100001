@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <div class="tenor-gif-embed" data-postid="17362035" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/explosion-art-aesthetic-gif-17362035">Explosion Art GIF</a>from <a href="https://tenor.com/search/explosion-gifs">Explosion GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/es-MX/view/explosion-art-aesthetic-gif-17362035" width="250" height="220" />
 <!-- <img src="https://media.giphy.com/media/iGlFO51WE0Dmg/giphy.gif" width="250" height="220" />
  <img src="https://tenor.com/bk0OZ.gif" width="250" height="220" /> -->
 </div>
