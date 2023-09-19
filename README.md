@@ -15,9 +15,8 @@ I love robots, computer networking, hacker news, AI, etc.
 * I love 🎃🍭 Halloween 🍬🧛
 
 ### Also
-👨‍🏭 I'm currently working on my ecommerce project
+🌱 I'm currently working on my ecommerce project
 
-🧠 I'm currently learning Pentesting
 
 ## 🛠 Skills
 <p align="left">
