@@ -11,7 +11,7 @@ I love robots, computer networking, hacker news, AI, etc.
 
 ## 🚀 About Me
 * Kubernetes user
-* I love programming only when it goes well
+* I love programming only when code works
 * I love 🎃🍭 Halloween 🍬🧛
 
 ### Also
